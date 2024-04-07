@@ -2,11 +2,6 @@ Hello word!
 12345
 Good bye
 asfd
-<<<<<<< HEAD
 line from users1
-=======
-line from users1
-
-
-
->>>>>>> 2c9df0e2598bd99add129636473e1977f004c216
+some change
+line from user1 rebase
